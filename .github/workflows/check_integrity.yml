@@ -19,4 +19,4 @@ jobs:
 
       - name : 🕵️‍♂️ Check data integrity
         run: |
-          duckdb miage.duckdb < import.sql
+          duckdb miage.duckdb < .github/workflows/import.sql
