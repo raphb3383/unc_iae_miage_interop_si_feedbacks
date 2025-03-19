@@ -7,7 +7,7 @@ CREATE OR REPLACE TABLE mapping_gh_kaggle (
 
 insert into mapping_gh_kaggle
 select *
-from '../../data/relationship_gh_kaggle.csv';
+from 'data/relationship_gh_kaggle.csv';
 
 
 CREATE OR REPLACE TABLE feedback_sessions (
@@ -28,4 +28,4 @@ CREATE OR REPLACE TABLE feedback_sessions (
 
 insert into feedback_sessions
 select *
-from '../../data/feedback_sessions.csv';
+from 'data/feedback_sessions.csv';
