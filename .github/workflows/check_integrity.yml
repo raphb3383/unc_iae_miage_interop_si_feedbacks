@@ -1,0 +1,22 @@
+name: 🧪 Check data
+
+
+on: [pull_request, push]
+
+jobs:
+  test:
+    name: 🧪 Verify data
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Install DuckDB
+        uses: opt-nc/setup-duckdb-action@v1.0.11
+        with:
+          version: v1.2.1
+
+
+      - name : 🕵️‍♂️ Check data integrity
+        run: |
+          duckdb miage.duckdb < .github/workflows/import.sql
