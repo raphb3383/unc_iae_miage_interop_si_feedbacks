@@ -11,7 +11,7 @@ from 'data/relationship_gh_kaggle.csv';
 
 CREATE OR REPLACE TABLE feedback_sessions (
     session_date DATE NOT NULL,
-    id_etudiant_gh varchar NOT NULL,
+    id_etudiant_gh varchar NOT NULL references mapping_gh_kaggle(gh_handle),
     duree_heures integer NOT NULL DEFAULT 3,
     niko_niko varchar NOT NULL check (niko_niko in ('VERT', 'JAUNE', 'ROUGE')),
     fdbck_clarte_explications integer CHECK (fdbck_clarte_explications BETWEEN 1 AND 5),
