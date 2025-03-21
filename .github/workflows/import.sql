@@ -1,8 +1,7 @@
 CREATE OR REPLACE TABLE mapping_gh_kaggle (
     gh_handle VARCHAR NOT NULL UNIQUE,
-    kaggle_handle VARCHAR,-- NOT NULL UNIQUE,
-
-    --PRIMARY KEY (gh_handle, kaggle_handle)
+    kaggle_handle VARCHAR NOT NULL UNIQUE,
+    PRIMARY KEY (gh_handle)
 );
 
 insert into mapping_gh_kaggle
