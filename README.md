@@ -9,4 +9,5 @@ data.
 2. Notebook Loader : [🗣️ Loader Feedbacks UNC MASTER2 MIAGE Interop-SI](https://www.kaggle.com/code/adriensales/loader-feedbacks-unc-master2-miage-interop-si)
 3. Dataset : [📚 Datas Feedbacks UNC MASTER2 MIAGE Interop-SI](https://www.kaggle.com/datasets/adriensales/datas-feedbacks-unc-master2-miage-interop-si)
 4. Jupyter d'exemple pour démarrer facilement : [Feedbacks UNC MASTER2 MIAGE Interop-SI for dummies](https://www.kaggle.com/code/adriensales/feedbacks-unc-master2-miage-interop-si-for-dummies)
-5. **👉 Proposer ses créations 👈** 
+5. Jupyter [🗠 MIAGE Interop-SI - Pilotage feedbacks](https://www.kaggle.com/code/adriensales/miage-interop-si-pilotage-feedbacks)
+6. **👉 Proposer ses créations 👈** 
