@@ -10,7 +10,6 @@ session_date,id_etudiant_gh,presence,duree_heures,niko_niko,fdbck_clarte_explica
 2025-03-15,raimanu,ON_SITE,3,JAUNE,5,4,3,,2,3,"Travaux pratique et moment de partage en groupe",
 2025-03-15,josegoue993,ON_SITE,3,JAUNE,5,4,2," utiliser les des marqueurs plus foncés pour une meilleure visibilité sur tableau blanc",3,3,"Les exercices permettent plus d interactions avec la classe et c est super",
 2025-03-15,galinclementine,ABSENT,3,,,,,,,,,
-2025-03-15,Nathoune27,ABSENT,3,,,,,,,,,
 2025-03-22,raphb3383,ON_SITE,3,VERT,3,4,4,"Finalement en manipulant cela devient plus simple",3,4,"découverte de ce nouvel outil très intéressant",
 2025-03-22,galinclementine,ON_SITE,3,VERT,4,5,2,"Enregistrement sessions sur Teams pour etudiant(s) manquants(s)",5,"1","Perspectives d application en entreprise, c est intéressant !"," Cours préparé et organisé = au top"
 2025-03-22,Nathoune27,ON_SITE,3,VERT,4,4,2,"Prevoir des multiprises ou trouver une salle avec plus de prises",3,3,"Pas de preference particuliere",
@@ -25,4 +24,4 @@ session_date,id_etudiant_gh,presence,duree_heures,niko_niko,fdbck_clarte_explica
 2025-03-22,jasknky,ABSENT,3,VERT,,,,,3,3,,
 2025-04-01,galinclementine,ON_SITE,2,VERT,4,3,2,,4,2,"Organisation, répartition tâches tp prixnc",
 2025-04-01,tinanak,ON_SITE,3,JAUNE,3,4,3,"Pas de suggestions particulières",4,3,"Explication sur le vidéo et utilisation de kaggle","Perso j ai eu un peu de mal pendant cette séance : beaucoup d’informations à retenir et en fin de journée la baisse de motivation n’aide pas. Je vais essayer d être plus concentrée la prochaine fois !"
-2025-04-01,Nathoune27,ON_SITE,2,JAUNE,4,3,2,"Pas de suggestions d'amelioration",4,3,"Pas de preference particuliere","cours un peu lourd pour une fin de journée"
+2025-04-01,raphb3383,ON_SITE,3,VERT,4,4,4,"Intéressé par ecosystme interopérable Kaggle avec autres supports HuggingFace MailChimp Google",3,4,"Encore un peu abstrait les composantes DATA DELIVERY et LLM",
